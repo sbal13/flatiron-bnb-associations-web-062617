@@ -49,6 +49,7 @@ describe User do
           guest: logan,
           reservation: reservation
         )
+
       end
 
       it 'has many trips' do
